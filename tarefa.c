@@ -167,6 +167,10 @@ scanf("%s", senhadigitada);
 		deletar();
 		break;
 		
+		case 4:
+		printf("Obrigado por utilizar  o sistema\n");
+		return 0;
+		break;
 		
 		default:
 		printf("Essa opção não está disponivel");
